@@ -5,6 +5,6 @@
 ![2 - catching an error](./3.PNG)
 ![3 - an example of a function](./4.PNG)
 
-![Right-click to inspect the dev tools console]('https://verson-tech.github.io/Axios/')
+[Right-click to inspect the dev tools console]('https://verson-tech.github.io/Axios/')
 
 
